@@ -1,5 +1,7 @@
 # HALLM
 
+Read more about HALLM on [GoodAI's blog](https://www.goodai.com/hallm-an-llm-agent-embodied-within-a-python-terminal/).
+
 This is a prototype that was developed by GoodAI's agents team with the
 purpose of evaluating the performance of a Large Language Model (LLM)
 within a highly dynamic and immersive environment. The main idea is that
